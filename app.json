@@ -42,9 +42,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "YOUR_EAS_PROJECT_ID"
+        "projectId": "ad7a5b30-3881-4473-8678-de4df130a2bc"
       }
     },
-    "owner": "YOUR_EXPO_USERNAME"
+    "owner": "chavasu"
   }
 }
