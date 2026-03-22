@@ -10,6 +10,7 @@
       "package": "com.flipfinder.app",
       "versionCode": 1,
       "permissions": ["INTERNET"]
+      "buildType": "apk"
     },
     "extra": {
       "eas": {
